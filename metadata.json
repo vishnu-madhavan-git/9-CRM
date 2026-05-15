@@ -1,0 +1,8 @@
+{
+  "name": "Nexus CRM",
+  "description": "A high-performance, AI-assisted CRM for managing leads, tracking sales pipelines, and coordinating team tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
